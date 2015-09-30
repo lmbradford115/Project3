@@ -2,53 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/Users/Luke/Desktop/Project3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/debug/classes-57ea3252a86dd97bc48ce10d622afaa993012d27.jar" />
-    </item>
-    <item
-        jar="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/pre-dexed/release/classes-89498333ae029e6a841c61e9d3e3d179f3a73b7a.jar" />
-    </item>
-    <item
-        jar="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/pre-dexed/release/classes-2360d3753050e793ca1e95c6b9f001328cc8eb40.jar" />
-    </item>
-    <item
-        jar="/Users/Luke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-47b2e7bc5e1aa4470bf7e0811003a1d68d98348b.jar" />
-    </item>
-    <item
         jar="/Users/Luke/Desktop/Project3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/debug/classes-2e81a29a4f890c42ddde89ebb15398f6e1a1f680.jar" />
-    </item>
-    <item
-        jar="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/Luke/Desktop/GeoQuizChallenge/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-1febf79c8adb9ce0099fb018466d4f5e395a1022.jar" />
+        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/release/classes-2e81a29a4f890c42ddde89ebb15398f6e1a1f680.jar" />
     </item>
     <item
         jar="/Users/Luke/Desktop/Project3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6b863eab735b31aa217cb6eb70c4f3fb7b57fc97.jar" />
+        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-6b863eab735b31aa217cb6eb70c4f3fb7b57fc97.jar" />
+    </item>
+    <item
+        jar="/Users/Luke/Desktop/Project3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/release/classes-57ea3252a86dd97bc48ce10d622afaa993012d27.jar" />
+    </item>
+    <item
+        jar="/Users/Luke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Luke/Desktop/Project3/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-47b2e7bc5e1aa4470bf7e0811003a1d68d98348b.jar" />
     </item>
 
 </items>
