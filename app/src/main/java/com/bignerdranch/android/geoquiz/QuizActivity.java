@@ -15,7 +15,7 @@ import android.widget.ImageView;
 import android.util.Log;
 
 public class QuizActivity extends AppCompatActivity {
-
+//This is a test!
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
     private static final String KEY_CHEATER = "cheater";
