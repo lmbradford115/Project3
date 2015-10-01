@@ -13,8 +13,8 @@ import android.widget.TextView;
 
 public class CheatActivity extends AppCompatActivity {
 
-    private static final String EXTRA_ANSWER_IS_TRUE = "com.bignerdranch.android.geoquiz.answer_is_true";
-    private static final String EXTRA_ANSWER_SHOWN = "com.bignerdranch.android.geoquiz.answer_shown";
+    public static final String EXTRA_ANSWER_IS_TRUE = "com.bignerdranch.android.geoquiz.answer_is_true";
+    public static final String EXTRA_ANSWER_SHOWN = "com.bignerdranch.android.geoquiz.answer_shown";
     private static final String KEY_ANSWER_SHOWN = "shown";
     private boolean mAnswerIsTrue;
     private TextView mAnswerTextView;
