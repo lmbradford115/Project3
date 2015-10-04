@@ -19,10 +19,20 @@
             android:padding="24dp"
             tools:text="Answer"/>
 
+
+
+
         <Button
             android:id="@+id/show_answer_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/show_answer_button"/>
+
+         <TextView
+            android:id="@+id/api_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="24dp"
+            android:text="@string/api_level"/>
 
     </LinearLayout><!-- From: file:/Users/Luke/Desktop/Project3/app/src/main/res/layout/activity_cheat.xml -->

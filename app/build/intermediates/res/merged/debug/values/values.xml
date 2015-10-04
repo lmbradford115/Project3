@@ -211,6 +211,7 @@
     <!-- From: file:/Users/Luke/Desktop/Project3/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
+    <string name="api_level">test</string>
     <string name="app_name">GeoQuiz</string>
     <string name="cheat_button">Cheat!</string>
     <string name="correct_toast">Correct!</string>
